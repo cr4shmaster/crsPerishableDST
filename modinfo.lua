@@ -1,7 +1,7 @@
-name = "Perishable"
+name = "Perishable v2.0"
 description = "This mod is required by other mods that are using 'perishable.lua'."
 author = "cr4shmaster"
-version = "1.0.2"
+version = "2.1.2"
 forumthread = ""
 api_version = 10
 all_clients_require_mod = true
@@ -9,5 +9,5 @@ client_only_mod = false
 dst_compatible = true
 icon_atlas = "modicon.xml"
 icon = "modicon.tex"
--- server_filter_tags = {""}
+server_filter_tags = {"perishable"}
 -- priority = 10.00
