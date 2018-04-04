@@ -1,7 +1,9 @@
-name = "Perishable v2.0"
+-- More information here: https://sites.google.com/view/cr4shmaster/perishable-ds-dst
+
+name = "Perishable v2.1.2.1"
 description = "This mod is required by other mods that are using 'perishable.lua'."
 author = "cr4shmaster"
-version = "2.1.2"
+version = "2.1.2.1"
 forumthread = ""
 api_version = 10
 all_clients_require_mod = true
